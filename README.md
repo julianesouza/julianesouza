@@ -1,18 +1,14 @@
 ### Hi there 👋
 
-<!--
-**julianesouza/julianesouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer student, graduated from technical school and currently looking forward to improve my knowledge in web development. 
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning EJS
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I am learning to speak spanish
+- 📫 How to reach me: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>(https://www.linkedin.com/in/juliane-souza-498029198/)
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>(https://mail.google.com/mail/u/1/#inbox)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianesouza)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=julianesouza&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
