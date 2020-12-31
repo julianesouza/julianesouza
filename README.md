@@ -1,3 +1,5 @@
+![header](header.gif)
+
 ## Hi there 👋
 
 My name is Juliane and I am a Software Engineer student, graduated from technical school and currently looking forward to improve my knowledge in web development. 
