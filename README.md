@@ -1,5 +1,3 @@
-![header](header.gif)
-
 ## Hi there 👋
 
 My name is Juliane and I am an Systems Analysis and Development student, graduated from technical school and currently looking forward to improve my knowledge in SRE/DevOps practice. 
