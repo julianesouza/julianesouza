@@ -2,8 +2,8 @@
 
 My name is Juliane and I am a Systems Analysis and Development student, graduated from technical school and currently working as a Cloud Infrastructure Analyst. 
 
-- 🌱 I’m currently learning AWS, Azure, GCP and Terraform
-- 👯 I’m looking to collaborate with other content creators
+- 🌱 I’m currently working with AWS, Azure, GCP and Terraform
+- 👯 I’m currently learning Python, Data Science and Machine Learning
 
 ### Technologies I use:
 
